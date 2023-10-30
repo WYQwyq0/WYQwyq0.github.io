@@ -28,10 +28,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+成员:
+  - 王永琪
+  - 王惟佳
+  - 曲楚翘
+  - 吕墨浓
 
 # Education to show in About widget
 education:
