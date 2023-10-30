@@ -28,7 +28,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-成员:
+Interests:
   - 王永琪
   - 王惟佳
   - 曲楚翘
@@ -37,15 +37,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 王永琪
+      institution: Shandong University
+      year: 2020
+    - course: 王惟佳
+      institution: Shandong University
+      year: 2020
+    - course: 曲楚翘
+      institution: Shandong University
+      year: 2020
+      - course: 吕墨浓
+      institution: Shandong University
+      year: 2020
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
