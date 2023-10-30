@@ -46,7 +46,7 @@ education:
     - course: 曲楚翘
       institution: Shandong University
       year: 2020
-      - course: 吕墨浓
+    - course: 吕墨浓
       institution: Shandong University
       year: 2020
 
