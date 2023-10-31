@@ -72,7 +72,7 @@ sections:
           organization_url: uploads/访谈.pdf
           title: 内容
           url: ''
-    design:
+    design: 
       columns: '2'
  - block: portfolio
     id: projects
