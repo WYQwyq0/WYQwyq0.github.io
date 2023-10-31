@@ -66,12 +66,12 @@ sections:
         folders:
           - slides
       items:
-        - details_url: slides
+        - details_url: https://www.baidu.com
           date_end: ''
           date_start: '2023-10-01'
           description: ''
           organization: 内容
-          organization_url: slides
+          organization_url: https://www.baidu.com
           title: 大学生活规划采访
           url: ''
     design:
