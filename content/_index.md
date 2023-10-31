@@ -71,14 +71,6 @@ sections:
           organization_url: uploads/访谈.pdf
           title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url:uploads/访谈.pdf
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: uploads/访谈.pdf
-          title: Blockchain Fundamentals
-          url: uploads/访谈.pdf
         - certificate_url: uploads/访谈.pdf
           date_end: '2020-12-21'
           date_start: '2020-07-01'
