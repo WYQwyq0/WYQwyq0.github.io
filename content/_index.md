@@ -106,7 +106,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        如果有什么问题或者建议，联系我们！
       # Contact (add or remove contact options as necessary)
       email: 1720659677@qq.com
       phone: 136 0385 6985
