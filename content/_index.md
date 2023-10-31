@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: 成员
+      title: experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
