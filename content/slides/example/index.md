@@ -10,7 +10,7 @@ external_link: ''
 
 url_code: ''
 url_pdf: ''
-url_slides: https://www.wjx.cn/vm/hPiFb0M.aspx
+url_slides: ''
 url_video: ''
 
 # Slides (optional).
