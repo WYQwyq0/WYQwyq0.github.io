@@ -29,7 +29,7 @@ organizations:
 
 
 # Education to show in About widget
-Education:
+Members:
   courses:
     - course: 王永琪
       institution: Shandong University
@@ -46,7 +46,7 @@ Education:
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
+skill:
   - name: Technical
     items:
       - name: Python
