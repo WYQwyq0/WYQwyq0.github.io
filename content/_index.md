@@ -62,9 +62,6 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      filters:
-        folders:
-          - slides
       items:
         - details_url: uploads/访谈.pdf
           date_end: ''
