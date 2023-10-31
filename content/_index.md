@@ -57,7 +57,6 @@ sections:
       title: 'interview'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: October 
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -66,7 +65,7 @@ sections:
       items:
         - details_url: uploads/访谈.pdf
           date_end: ''
-          date_start: '2023-10'
+          date_start: '2023-10-01'
           description: ''
           organization: 内容
           organization_url: uploads/访谈.pdf
