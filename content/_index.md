@@ -63,12 +63,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - details_url: uploads/访谈.pdf
+        - details_url: slides/example
           date_end: ''
           date_start: '2023-10-01'
           description: ''
           organization: 内容
-          organization_url: uploads/访谈.pdf
+          organization_url: slides/example
           title: 大学生活规划采访
           url: ''
     design:
