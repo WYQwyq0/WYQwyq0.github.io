@@ -29,7 +29,7 @@ organizations:
 
 
 # Education to show in About widget
-Members:
+Education: MEMBERS
   courses:
     - course: 王永琪
       institution: Shandong University
