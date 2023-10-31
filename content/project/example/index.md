@@ -2,7 +2,7 @@
 title: Our survey
 summary: 问卷调查
 tags:
-  - survry
+  - survey
 date: '2023-10-21T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
