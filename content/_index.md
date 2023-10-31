@@ -50,32 +50,33 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: accomplishments
+ - block: portfolio
     id: posts
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'interview'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      title: Projects
       filters:
         folders:
           - slides
-      items:
-        - details_url: https://www.baidu.com
-          date_end: ''
-          date_start: '2023-10-01'
-          description: ''
-          organization: 内容
-          organization_url: https://www.baidu.com
-          title: 大学生活规划采访
-          url: ''
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: survey
+          tag: survey
+        - name: Other
+          tag: Demo
     design:
-      columns: '2'
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   - block: portfolio
     id: projects
     content:
