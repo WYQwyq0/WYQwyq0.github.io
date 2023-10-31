@@ -8,12 +8,9 @@ date: '2023-10-21T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: https://www.wjx.cn/vm/hPiFb0M.aspx
 url_video: ''
 
 # Slides (optional).
