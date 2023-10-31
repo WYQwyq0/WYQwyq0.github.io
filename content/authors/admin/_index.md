@@ -28,7 +28,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-Interests:
+members:
   - 王永琪
   - 王惟佳
   - 曲楚翘
@@ -123,6 +123,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+根据课堂内容，在满足全面性、非诱导性、客观性的基础上，以软件设计需求调研的立场，面向全体大学生，设计出了关于大学生对大学生活、学业规划与职业规划的访谈与问卷调查。
 {style="text-align: justify;"}
