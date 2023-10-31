@@ -62,6 +62,9 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      filters:
+        folders:
+          - slides
       items:
         - details_url: slides
           date_end: ''
@@ -90,8 +93,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: survry
-          tag: survry
+        - name: survey
+          tag: survey
         - name: Other
           tag: Demo
     design:

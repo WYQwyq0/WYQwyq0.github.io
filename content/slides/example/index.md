@@ -1,8 +1,6 @@
 ---
 title: Our interview
 summary: 采访
-tags:
-  - survry
 date: '2023-10-21T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
