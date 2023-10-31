@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
- - block: accomplishments
+  - block: accomplishments
     id: posts
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -74,7 +74,7 @@ sections:
           url: ''
     design: 
       columns: '2'
- - block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects
