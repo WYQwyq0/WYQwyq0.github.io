@@ -1,11 +1,28 @@
 ---
-title: Interview
-summary: 大学生活规划采访.
-authors: []
-tags: []
-categories: []
-date: '2023-10-20T00:00:00Z'
+title: Our interview
+summary: 采访
+tags:
+  - survry
+date: '2023-10-21T00:00:00Z'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
 ---
+
 *组名：今天吃啥
 
 *项目简介：根据课堂内容，在满足全面性、非诱导性、客观性的基础上，以软件设计需求调研的立场，面 向全体大学生，设计出了关于大学生对大学生活、学业规划与职业规划的访谈与问卷调查。
