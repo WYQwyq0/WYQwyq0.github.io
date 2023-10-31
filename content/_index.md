@@ -51,12 +51,13 @@ sections:
     design:
       columns: '1'
   - block: accomplishments
+    id: posts
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'interview'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: October 2023
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -65,48 +66,13 @@ sections:
       items:
         - certificate_url: uploads/访谈.pdf
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-10-20'
           description: ''
-          organization: Coursera
+          organization: 今天吃啥
           organization_url: uploads/访谈.pdf
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: uploads/访谈.pdf
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: uploads/访谈.pdf
-          title: 'Object-Oriented Programming in R'
+          title: 大学生活规划采访
           url: ''
     design:
-      columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
       columns: '2'
   - block: portfolio
     id: projects
@@ -125,8 +91,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: survry
+          tag: survry
         - name: Other
           tag: Demo
     design:

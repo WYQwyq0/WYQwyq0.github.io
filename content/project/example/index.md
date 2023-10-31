@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Our survey
+summary: 问卷调查
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - survry
+date: '2023-10-21T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -11,12 +11,6 @@ external_link: ''
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,13 +23,33 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Q1.你的年级是？（Radio buttons）
+○大一		○大二		○大三		○大四
+Q2.你来自的城市属于？（Radio buttons）
+○一线城市		○一般城市		○小县城		○农村
+Q3.你对学校的满意度？（Radio buttons）
+○非常满意		○满意		○一般		○不满意
+Q4.你觉得目前的大学生活有趣吗？（Radio buttons）
+○非常有趣		○有趣		○一般		○无聊
+Q5.你的宿舍氛围？（Radio buttons）
+○非常好		○还可以		○有矛盾		○不关心
+Q6.你对目前学习有规划吗？（Radio buttons）
+○规划非常清晰		○规划较少		○完全没有		○其他（请补充）——
+Q7.每周去图书馆次数？（Likert Scale）
+○几乎每天		○2-4次		○1-2次		○几乎不去
+Q8.对学业压力的打分（Range1-10+）
+○1	○2	○3	○4	○5	○6	○7	○8	○9	○10	 ○10+
+Q9.你日常的课余活动是？（Multiple Choice）
+○社团活动	○体育锻炼	○手机娱乐	○看书休闲	○其他（请补充）——
+Q10.你是否考虑过自己的毕业去向？（Radio buttons）
+○考虑非常清晰		○考虑较少		○完全没有		○其他（请补充）——
+Q11.你之后更倾向于？（Radio buttons）
+○出国		○工作		○考研/考公		○其他（请补充）——
+Q12.你了解毕业去向的途径有？（Multiple Choice）
+○学长学姐	○辅导员		○各种讲座	○企业招聘	○其他（请补充）——
+Q13.你对未来的信心？（Radio buttons）
+○非常自信		○能有出路		○迷茫困惑		○其他（请补充）——
+Q14.你认为你最看重的是？（Radio buttons）
+○绩点	 ○竞赛	 ○获得技能	 ○人际关系	 ○其他（请补充）——
+Q15.你希望学校在职业规划方向提供哪方面帮助？（open）
+————————————————————————————————
