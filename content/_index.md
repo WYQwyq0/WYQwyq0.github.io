@@ -63,28 +63,28 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: uploads/访谈.pdf
           date_end: ''
           date_start: '2021-01-25'
           description: ''
           organization: Coursera
-          organization_url: https://www.coursera.org
+          organization_url: uploads/访谈.pdf
           title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url:uploads/访谈.pdf
           date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: edX
-          organization_url: https://www.edx.org
+          organization_url: uploads/访谈.pdf
           title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
+          url: uploads/访谈.pdf
+        - certificate_url: uploads/访谈.pdf
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
           organization: DataCamp
-          organization_url: https://www.datacamp.com
+          organization_url: uploads/访谈.pdf
           title: 'Object-Oriented Programming in R'
           url: ''
     design:
@@ -143,14 +143,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: contact
     id: contact
     content:
