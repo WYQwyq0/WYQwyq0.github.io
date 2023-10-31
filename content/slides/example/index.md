@@ -1,10 +1,10 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+title: Interview
+summary: 大学生活规划采访.
 authors: []
 tags: []
 categories: []
-date: '2019-02-05T00:00:00Z'
+date: '2023-10-20T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -12,158 +12,156 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
+*组名：今天吃啥
 
-# Create slides in Markdown with Wowchemy
+*项目简介：根据课堂内容，在满足全面性、非诱导性、客观性的基础上，以软件设计需求调研的立场，面 向全体大学生，设计出了关于大学生对大学生活、学业规划与职业规划的访谈与问卷调查。
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+大学生活的展望、学业规划与职业规划访谈
 
----
+引入部分：
 
-## Features
+同学你好，感谢你抽出宝贵的时间进行我们的访谈。我们正在设计一款与大学规划相关的软件，现在处于数据收集阶段。您是否同意我们将此次访谈内容用于该项目的数据分析？在接下来的问题中如果您认为有涉及隐私的方面，您可以选择拒绝回答，我们将继续进行后续问题的交流。本次访谈的内容我们仅用于设计分析，不会外传。
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+在我们开始之前您还有什么问题吗？
 
----
+热身部分：
 
-## Controls
+你对现在的大学生活满意吗？每天的生活是充实满足，还是疲惫混乱？或者两者混杂，兼而有之？
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
 
----
 
-## Code Highlighting
 
-Inline code: `variable`
+对于大学生活的方方面面，你有特别想要做出改变的地方吗？
 
-Code block:
 
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
 
----
 
-## Math
+主体部分：
 
-In-line math: $x + y = z$
+·话题一：整体规划
 
-Block math:
+①高考前你对大学生活的想象是什么样子的呢？
 
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
 
----
 
-## Fragments
 
-Make content appear incrementally
+进一步询问：相较于高中生活，你认为大学生活会有哪些方面的不同？
 
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
 
-Press `Space` to play!
 
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
 
----
+②你是如何考虑专业方向的选择问题？又是什么决定了你最终选择的计算机专业？
 
-A fragment can accept two optional parameters:
 
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
 
----
 
-## Speaker Notes
+③你希望在你大学毕业后在专业知识、特长爱好与生活等方面掌握什么技能？
 
-Add speaker notes to your presentation
 
-```markdown
-{{%/* speaker_note */%}}
 
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{%/* /speaker_note */%}}
-```
 
-Press the `S` key to view the speaker notes!
+进一步询问：你准备通过哪些途径去实现你的目的？或者你有什么计划吗？
 
-{{< speaker_note >}}
 
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{< /speaker_note >}}
 
----
 
-## Themes
+④在步入大学校园生活之前是否有过实习规划？
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
 
----
 
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
 
----
+⑤你认为在大学里最重要的事情是什么？
 
-{{< slide background-image="/media/boards.jpg" >}}
 
-## Custom Slide
 
-Customize the slide style and background
 
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
+·话题二：学业规划
 
----
+①你如何评价目前学校学院提供的现有课业及综合素质培养规划？
 
-## Custom CSS Example
 
-Let's make headers navy colored.
 
-Create `assets/css/reveal_custom.css` with:
 
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
+②你与学院在学业规划方面的信息交流、问题沟通是否及时到位？
 
----
 
-# Questions?
 
-[Ask](https://discord.gg/z8wNYzb)
 
-[Documentation](https://wowchemy.com/docs/content/slides/)
+③进入大学一段时间后，现有认知对于你已存在的计划，或者将要实施的清单会有什么不一样的改变吗？
+
+
+
+
+进一步询问：已存在计划的变动是什么？或者将要去实现的行动方向有什么样的变化？
+
+
+
+
+④当学校硬性规定的要求与你自身计划发生冲突时，你会怎么取舍？会对你产生什么样的影响吗？
+
+
+
+
+⑤课余时间你会如何平衡学习活动和学生会社团等爱好活动？重心在哪里？
+
+
+
+
+·话题三：就业规划
+
+①你对现在市场行业是否过一定的了解，例如应届毕业生就业情况、热门就业方向等？
+
+
+
+
+进一步询问：描述一下你的看法？
+
+
+
+
+②是否想从事本专业相关的工作？
+
+
+
+
+进一步询问：吃过这碗青春饭后是否还想续羹？你是否愿意一直从事计算机行业的工作？
+
+
+
+
+③你是否有对就业后可能会从事岗位的工作内容做过了解？
+
+
+
+
+④你认为你的专业技能水平能否胜任你心中理想的工作？
+
+
+
+
+进一步询问：是否想要进行进一步提升，哪怕是在就业之后？
+
+
+
+⑤学校是否对你提供过有关就业方面的帮助？
+
+
+
+进一步询问：如果有，这些帮助和途径对你的积极影响怎么样；如果没有，你想要收到什么帮助？
+
+
+
+
+结语部分：
+
+①您是否需要一款大学生规划指导类的软件为您提供帮助？对于这种软件您有什么期待的功能？
+
+
+
+
+进一步询问：您认为您是否会去亲自使用这种软件？
+
+
+
+
+感谢您的回复！
