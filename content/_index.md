@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
- - block: portfolio
+  - block: portfolio
     id: posts
     content:
       title: Projects
