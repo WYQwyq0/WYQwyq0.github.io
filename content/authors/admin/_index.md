@@ -28,8 +28,8 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 
-# MEMBERS to show in About widget
-MEMBERS:
+# Education to show in About widget
+Education:
   courses:
     - course: 王永琪
       institution: Shandong University

@@ -7,15 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: interview
     url: '#posts'
     weight: 20
   - name: survey
-    url: '#projects'
+    url: '#Gallery'
     weight: 30
-  - name: interview
-    url: '#talks'
-    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60
