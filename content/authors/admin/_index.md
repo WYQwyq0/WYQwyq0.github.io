@@ -3,7 +3,7 @@
 title: 今天吃啥
 
 # Name pronunciation (optional)
-name_pronunciation: wangyongqi
+#name_pronunciation: wangyongqi
 
 # Full name (for SEO)
 first_name: wyq
@@ -25,14 +25,8 @@ organizations:
     url: https://www.sdu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
-members:
-  - 王永琪
-  - 王惟佳
-  - 曲楚翘
-  - 吕墨浓
 
 # Education to show in About widget
 education:
