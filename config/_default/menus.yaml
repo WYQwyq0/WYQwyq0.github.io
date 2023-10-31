@@ -10,15 +10,12 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: survey
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: interview
     url: '#talks'
     weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60

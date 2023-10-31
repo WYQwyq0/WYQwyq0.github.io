@@ -28,8 +28,8 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 
-# Education to show in About widget
-Members:
+# MEMBERS to show in About widget
+MEMBERS:
   courses:
     - course: 王永琪
       institution: Shandong University
@@ -46,7 +46,7 @@ Members:
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skill:
+skills:
   - name: Technical
     items:
       - name: Python
