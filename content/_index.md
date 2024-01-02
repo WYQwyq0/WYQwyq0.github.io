@@ -74,6 +74,30 @@ sections:
           url: ''
     design: 
       columns: '2'
+  - block: accomplishments
+    id: posts
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Critique Feedback'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - details_url: uploads/访谈.pdf
+          date_end: ''
+          date_start: '2023-12-25'
+          description: ''
+          organization: 内容
+          organization_url: uploads/评估反馈.pdf
+          title: 残障人士出行APP评估反馈
+          url: ''
+    design: 
+      columns: '2'
   - block: portfolio
     id: projects
     content:
